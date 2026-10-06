@@ -5,7 +5,7 @@ const FeaturedServices = () => {
     {
       title: "Signature Hair Styling",
       price: "From $65",
-      img: "https://images.unsplash.com/photo-1595476108010-b4d1f10d5e43?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+      img: "https://images.unsplash.com/photo-1562322140-8baeececf3df?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
     },
     {
       title: "Luxe Hair Spa",
@@ -15,12 +15,12 @@ const FeaturedServices = () => {
     {
       title: "Premium Grooming",
       price: "From $55",
-      img: "https://images.unsplash.com/photo-1621607512281-259678c2e64a?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+      img: "https://images.unsplash.com/photo-1503951914875-452162b0f3f1?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
     },
     {
       title: "Relaxation Spa",
       price: "From $110",
-      img: "https://images.unsplash.com/photo-1544161515-4ab6ce6db874?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+      img: "https://images.unsplash.com/photo-1540555700478-4be289fbecef?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
     }
   ];
 

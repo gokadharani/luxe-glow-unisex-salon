@@ -7,7 +7,7 @@ export const About = () => {
       <div className="container about-content">
         <div className="about-image">
           <img 
-            src="https://images.unsplash.com/photo-1521590832167-7bfcfaa6362f?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" 
+            src="https://images.unsplash.com/photo-1552693673-1bf958298935?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" 
             alt="LuxeGlow Salon Interior" 
           />
         </div>
